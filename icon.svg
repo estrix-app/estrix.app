@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <title>Estrix</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4F3E99"/>
+      <stop offset="1" stop-color="#2D1E72"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="224" fill="url(#g)"/>
+  <g fill="#EFBE5B">
+    <path d="M252 600A260 260 0 0 1 772 600V686A140 140 0 0 1 632 826H392A140 140 0 0 1 252 686Z"/>
+    <path d="M296 392L372 226L486 420Z"/>
+    <path d="M538 392L652 226L728 420Z"/>
+  </g>
+  <g fill="#2B1E6B">
+    <circle cx="385" cy="510" r="130"/>
+    <circle cx="639" cy="510" r="130"/>
+    <path d="M488 598H536L512 650Z"/>
+  </g>
+  <g fill="#EFBE5B">
+    <circle cx="385" cy="510" r="50"/>
+    <circle cx="639" cy="510" r="50"/>
+    <rect x="445" y="800" width="28" height="60"/>
+    <rect x="551" y="800" width="28" height="60"/>
+    <rect x="312" y="850" width="400" height="34" rx="17"/>
+  </g>
+</svg>
