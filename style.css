@@ -53,7 +53,8 @@ a:hover { text-decoration-thickness: 2px; }
 .top nav a[aria-current="page"], .top nav a:hover { color: var(--heading); text-decoration: underline; }
 
 /* Front page */
-.hero { background: linear-gradient(180deg, var(--indigo), var(--indigo-deep)); color: var(--hero-text); padding: 3rem 0 3.25rem; }
+.home { padding-top: 0; }
+.hero { margin-bottom: 2.5rem; background: linear-gradient(180deg, var(--indigo), var(--indigo-deep)); color: var(--hero-text); padding: 3rem 0 3.25rem; }
 .hero .wrap { display: grid; gap: 1.5rem; }
 .hero svg { width: 6.5rem; height: auto; display: block; }
 .hero h1 { margin: 0 0 0.5rem; color: var(--hero-text); font-size: clamp(2.5rem, 9vw, 3.75rem); line-height: 1; letter-spacing: -0.01em; font-weight: 800; }
